@@ -14,7 +14,4 @@ The Docker Fundamentals repository contains supporting materials for the course.
 Apache 2.0 (see LICENSE file)
 
 ## Copyright
-
-Docker for ubuntu [Joseph Assiga Mail](joseph.assiga@gmail.com)
-
 Docker Hub [josephassiga](https://hub.docker.com/u/josephassiga/)
